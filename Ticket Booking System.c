@@ -1,3 +1,4 @@
+//reg add HKCU\Console /v VirtualTerminalLevel /t REG_DWORD /d 1
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
